@@ -1,0 +1,25 @@
+{
+  "name": "backend-ca3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinavv15/Backend-CA3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abhinavv15/Backend-CA3/issues"
+  },
+  "homepage": "https://github.com/Abhinavv15/Backend-CA3#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
